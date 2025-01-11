@@ -1,5 +1,7 @@
-public class short_sub {
-    public static void main(String[] args)
+package substraction.function;
+
+public class Shortsubstration {
+    public void shorts()
     {
         short no1=25;
         short no2=2;
@@ -8,5 +10,10 @@ public class short_sub {
         sub = (short) (no1 - no2);
         // otherwise short has to be added while performing substraction
         System.out.println("Answer = " + sub);
+    }
+    public static void main(String[] args)
+    {
+        Shortsubstration ss = new Shortsubstration();
+        ss.shorts();
     }
 }

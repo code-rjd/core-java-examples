@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/datatypeexamples.iml" filepath="$PROJECT_DIR$/datatypeexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatype-examples.iml" filepath="$PROJECT_DIR$/datatype-examples.iml" />
     </modules>
   </component>
 </project>
