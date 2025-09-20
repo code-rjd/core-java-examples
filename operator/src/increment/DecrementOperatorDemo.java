@@ -15,7 +15,7 @@ public class DecrementOperatorDemo {
 
 
         System.out.println(" Decrement value : " + no--);
-        System.out.println(" Actual Entered value = "+ no);
+        System.out.println(" Actual decremented value = "+ no);
 
         System.out.println(" Next Decrement value : " + --no);
 
