@@ -1,6 +1,17 @@
+package service;
+
 public class HelloService {
     public static void sayHello(String name) {
-        System.out.println("Hello " + (name.isEmpty()? "world!!!" : name + "!!!"));
-        //ternary operator used
+            System.out.println("Hello " + (name.isEmpty()? "world!!!" : name + "!!!"));
+            //ternary operator used
+        }
+
+    public static void sayHello(String...names) {
+        for (String name : names) {
+            System.out.println("Hello " + name);
+        }
     }
-}
+
+
+    }
+

@@ -1,4 +1,16 @@
-package PACKAGE_NAME;
-
 public class DivideByZero {
+    public static void main(String[] args) {
+        int no1 = 10, no2 = 2;
+
+        int division = 0;
+
+        try{
+            division = no1 / no2;
+            }
+        catch(Exception e) {
+            System.err.println("Division value must not be zero");
+            System.exit(0);
+        }
+        System.out.println("Division result:" + division);
+    }
 }
