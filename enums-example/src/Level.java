@@ -16,4 +16,12 @@ public enum Level {
     public void setLevel(String level) {
         this.level = level;
     }
+
+    public static Level fromValue(String value) {
+        for (Level level : Level.values()) {
+            if (level.name().equalsIgnoreCase(value) && !value.isEmpty()) {
+                return level;
+            }
+        }
+    }
 }

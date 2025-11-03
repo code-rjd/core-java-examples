@@ -1,6 +1,6 @@
 public class DivideByZero {
     public static void main(String[] args) {
-        int no1 = 10, no2 = 2;
+        int no1 = 10, no2 = 0;
 
         int division = 0;
 
