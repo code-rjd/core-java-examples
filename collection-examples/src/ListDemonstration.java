@@ -38,8 +38,5 @@ public class ListDemonstration {
         cityGenericsList.add("Delhi");
 
         System.out.println("CityGENERIC LIST:" + cityGenericsList);
-
     }
-
 }
-

@@ -12,8 +12,6 @@ public class CopyOnWriteArrayListDemo {
         // we cannot add elements in the array list directly by using iterator in the middle
             // as shown in line no 24-25
             // this is due to concurrent modification exception
-
-
         integerList.addAll(List.of(1, 3, 56, 3425, 676878, 765, 334, 5786));
 
         Iterator<Integer> integerIterator = integerList.iterator();
