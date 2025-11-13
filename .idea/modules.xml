@@ -3,13 +3,31 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction-bank-example/abstraction-bank-example.iml" filepath="$PROJECT_DIR$/abstraction-bank-example/abstraction-bank-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction-shape-demo/abstraction-shape-demo.iml" filepath="$PROJECT_DIR$/abstraction-shape-demo/abstraction-shape-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/access-specifier-demo/access-specifier-demo.iml" filepath="$PROJECT_DIR$/access-specifier-demo/access-specifier-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-examples/array-examples.iml" filepath="$PROJECT_DIR$/array-examples/array-examples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/core-java-examples.iml" filepath="$PROJECT_DIR$/.idea/core-java-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class-overriding-demo/class-overriding-demo.iml" filepath="$PROJECT_DIR$/class-overriding-demo/class-overriding-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-examples/collection-examples.iml" filepath="$PROJECT_DIR$/collection-examples/collection-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor-Demo/constructor-Demo.iml" filepath="$PROJECT_DIR$/constructor-Demo/constructor-Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/e-commerce-product-review/e-commerce-product-review.iml" filepath="$PROJECT_DIR$/e-commerce-product-review/e-commerce-product-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/loopDemo/loopDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/operator/operator.iml" filepath="$PROJECT_DIR$/operator/operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums-example/enums-example.iml" filepath="$PROJECT_DIR$/enums-example/enums-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-Handling-example/exception-Handling-example.iml" filepath="$PROJECT_DIR$/exception-Handling-example/exception-Handling-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-handling-examples/file-handling-examples.iml" filepath="$PROJECT_DIR$/file-handling-examples/file-handling-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheristance-example/inheristance-example.iml" filepath="$PROJECT_DIR$/inheristance-example/inheristance-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-animal-demo/inheritance-animal-demo.iml" filepath="$PROJECT_DIR$/inheritance-animal-demo/inheritance-animal-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-bank-account-example/inheritance-bank-account-example.iml" filepath="$PROJECT_DIR$/inheritance-bank-account-example/inheritance-bank-account-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-manager-example/inheritance-manager-example.iml" filepath="$PROJECT_DIR$/inheritance-manager-example/inheritance-manager-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-vehicle-demo/inheritance-vehicle-demo.iml" filepath="$PROJECT_DIR$/inheritance-vehicle-demo/inheritance-vehicle-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-abstraction-vehicle-example/interface-abstraction-vehicle-example.iml" filepath="$PROJECT_DIR$/interface-abstraction-vehicle-example/interface-abstraction-vehicle-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loop-Demo/loop-Demo.iml" filepath="$PROJECT_DIR$/loop-Demo/loop-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method-overloading-demo/method-overloading-demo.iml" filepath="$PROJECT_DIR$/method-overloading-demo/method-overloading-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-example/object-example.iml" filepath="$PROJECT_DIR$/object-example/object-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operator-example/operator-example.iml" filepath="$PROJECT_DIR$/operator-example/operator-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/relational-&amp;-equality-operator-examples/relational-&amp;-equality-operator-examples.iml" filepath="$PROJECT_DIR$/relational-&amp;-equality-operator-examples/relational-&amp;-equality-operator-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static-class/static-class.iml" filepath="$PROJECT_DIR$/static-class/static-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static-import-example/static-import-example.iml" filepath="$PROJECT_DIR$/static-import-example/static-import-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-examples/string-examples.iml" filepath="$PROJECT_DIR$/string-examples/string-examples.iml" />
     </modules>
   </component>
 </project>

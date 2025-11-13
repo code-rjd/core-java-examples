@@ -1,0 +1,21 @@
+public class FinalDemo {
+    public final String GREETING_MSG = "Hello Pune..";
+    public final int DEFAULT_LOAD = 10;
+    public final double DEFAULT_TEMPERATURE = 52.3;
+    public final char DEFAULT_CHAR = 'a';
+    public final boolean DEFAULT_FLAG = false;
+    public static final String GREETING_MSG_TO_WORLD = "Hello World..";
+
+    public static void main(String[] args) {
+        FinalDemo finalDemo = new FinalDemo();
+        System.out.println("msg: " + finalDemo.GREETING_MSG);
+        System.out.println("msg: " + GREETING_MSG_TO_WORLD);
+
+        finalDemo.printMsgs();
+    }
+
+    public void printMsgs() {
+        System.out.println("DEFAULT_TEMPERATURE: " + DEFAULT_TEMPERATURE);
+        System.out.println("DEFAULT_FLAG: " + DEFAULT_FLAG);
+    }
+}

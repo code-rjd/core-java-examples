@@ -4,7 +4,7 @@ import model.Shape;
 
 public class StaticDemo {
     public static void main(String[] args) {
-        type = "Circle";
+        String type = "Circle";
 
         // circle 1 illustration
         Shape circle1 = new Shape();
