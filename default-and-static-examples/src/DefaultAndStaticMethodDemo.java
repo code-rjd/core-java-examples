@@ -8,7 +8,8 @@ public class DefaultAndStaticMethodDemo {
         Shape shape = new Circle();
         shape.draw();
         shape.paint();
-        Shape.erase();
+        Shape.erase();  //here we have to call the method using interface
+                        // bcz erase is marked as static in shape interface
 
         System.out.println("---------------------------");
         shape = new Square();

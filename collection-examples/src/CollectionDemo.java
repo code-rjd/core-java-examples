@@ -69,8 +69,9 @@ public class CollectionDemo {
                 }
             }
             System.out.println("---------------------------------------------");
+
+
             // nCopies: creates a copy of provided collection for number of times
             System.out.println("nCopies output: " + Collections.nCopies(2, numberList));
         }
     }
-
