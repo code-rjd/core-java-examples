@@ -2,7 +2,7 @@ import java.util.function.Predicate;
 
 public class PredicateDemo {
 
-    //old fashioned
+    //old-fashioned
     //    public static void main(String[] args) {
 //
 //        PredicateDemo demo = new PredicateDemo();
@@ -16,9 +16,9 @@ public class PredicateDemo {
         System.out.println("No greater than 100?" + noGreaterThan100.test(114));
 
         Predicate<String> isStringContainsZero = (input) -> input.contains("0");
-        Predicate<String> isStringDoesntContainsZero = Predicate.not(isStringContainsZero);
+        Predicate<String> isStringDoesnotContainsZero = Predicate.not(isStringContainsZero);
         System.out.println("String contains zero?" + isStringContainsZero.test("0pune"));
         System.out.println("String contains zero?" + isStringContainsZero.test("radheya100"));
-        System.out.println("String does NOT contains zero?" + isStringDoesntContainsZero.test("0pune"));
+        System.out.println("String does NOT contains zero?" + isStringDoesnotContainsZero.test("0pune"));
     }
 }
