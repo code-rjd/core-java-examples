@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class StreamSamples {
-    public static void main1(String[] args) {
+    public static void main1(String[] args)     {
 
         // collection improvements
         // old-fashioned
